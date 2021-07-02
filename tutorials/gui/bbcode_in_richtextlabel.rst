@@ -147,7 +147,7 @@ Tornado
 
 .. image:: img/tornado.png
 
-Tornao makes the text move around in a circle. Its tag format is
+Tornado makes the text move around in a circle. Its tag format is
 ``[tornado radius=5 freq=2][/tornado]``.
 ``radius`` is the radius of the circle that controls the offset, ``freq`` is how
 fast the text moves in a circle.
